@@ -1,6 +1,6 @@
-# Smart Bookmark App
+![Untitled design](https://github.com/user-attachments/assets/f437bfdc-afad-41db-bd82-4aa2699ba43a)
 
-A real-time bookmark manager built with Next.js 14, Supabase, and Tailwind CSS. Users can sign in with Google OAuth, add/delete bookmarks, and see changes sync in real-time across multiple tabs.
+A real-time  smart bookmark manager built with Next.js 14, Supabase, and Tailwind CSS. Users can sign in with Google OAuth, add/delete bookmarks, and see changes sync in real-time across multiple tabs.
 
 ## Features
 
